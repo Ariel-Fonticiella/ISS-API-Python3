@@ -1,6 +1,5 @@
 # Import the "requests" library & "json" library
 import requests
-import json
 
 # Set up the parameters we want to pass to the API
 # This is the latitude and longitude of New York City.
